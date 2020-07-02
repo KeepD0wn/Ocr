@@ -1,0 +1,7 @@
+C:\Users\gvozd\source\repos\Ocr1\Clocker\bin\Debug\Clocker.exe.config
+C:\Users\gvozd\source\repos\Ocr1\Clocker\bin\Debug\Clocker.exe
+C:\Users\gvozd\source\repos\Ocr1\Clocker\bin\Debug\Clocker.pdb
+C:\Users\gvozd\source\repos\Ocr1\Clocker\obj\Debug\Clocker.csprojAssemblyReference.cache
+C:\Users\gvozd\source\repos\Ocr1\Clocker\obj\Debug\Clocker.csproj.CoreCompileInputs.cache
+C:\Users\gvozd\source\repos\Ocr1\Clocker\obj\Debug\Clocker.exe
+C:\Users\gvozd\source\repos\Ocr1\Clocker\obj\Debug\Clocker.pdb

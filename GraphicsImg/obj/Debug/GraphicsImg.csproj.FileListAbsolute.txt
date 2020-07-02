@@ -1,0 +1,7 @@
+C:\Users\gvozd\source\repos\Ocr1\GraphicsImg\bin\Debug\GraphicsImg.exe.config
+C:\Users\gvozd\source\repos\Ocr1\GraphicsImg\bin\Debug\GraphicsImg.exe
+C:\Users\gvozd\source\repos\Ocr1\GraphicsImg\bin\Debug\GraphicsImg.pdb
+C:\Users\gvozd\source\repos\Ocr1\GraphicsImg\obj\Debug\GraphicsImg.csprojAssemblyReference.cache
+C:\Users\gvozd\source\repos\Ocr1\GraphicsImg\obj\Debug\GraphicsImg.csproj.CoreCompileInputs.cache
+C:\Users\gvozd\source\repos\Ocr1\GraphicsImg\obj\Debug\GraphicsImg.exe
+C:\Users\gvozd\source\repos\Ocr1\GraphicsImg\obj\Debug\GraphicsImg.pdb

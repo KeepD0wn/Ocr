@@ -1,0 +1,15 @@
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\bin\Debug\Ocr1.exe.config
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\bin\Debug\Ocr1.exe
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\bin\Debug\Ocr1.pdb
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\obj\Debug\Ocr1.csprojAssemblyReference.cache
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\obj\Debug\Ocr1.csproj.CoreCompileInputs.cache
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\obj\Debug\Ocr1.csproj.CopyComplete
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\obj\Debug\Ocr1.exe
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\obj\Debug\Ocr1.pdb
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\bin\Debug\x64\liblept172.dll
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\bin\Debug\x64\libtesseract304.dll
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\bin\Debug\x86\liblept172.dll
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\bin\Debug\x86\libtesseract304.dll
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\bin\Debug\System.Drawing.Common.dll
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\bin\Debug\Tesseract.dll
+C:\Users\gvozd\source\repos\Ocr1\Ocr1\bin\Debug\Tesseract.xml
